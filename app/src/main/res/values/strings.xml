@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PruebaImprimir</string>
+    <string name="print_photo">Print Photo</string>
+    <string name="customize_print">Customize Print</string>
+</resources>
